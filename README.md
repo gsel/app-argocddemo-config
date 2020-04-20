@@ -1,0 +1,2 @@
+# app-argocddemo-config
+argocddemo
